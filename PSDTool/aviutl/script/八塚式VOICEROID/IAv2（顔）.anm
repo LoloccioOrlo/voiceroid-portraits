@@ -9,7 +9,7 @@ local values = {
 }
 PSD:addstate(values, obj.track0)
 
---track1:通常,0,43,0,1
+--track1:目,0,43,0,1
 local values = {
   require("PSDToolKit").Blinker.new({"S.お気に入り/*IA%20-ARIA%20ON%20THE%20PLANETES-/目~閉じ目","S.お気に入り/*IA%20-ARIA%20ON%20THE%20PLANETES-/目/半目~通常","S.お気に入り/*IA%20-ARIA%20ON%20THE%20PLANETES-/目/通常~通常"},4,1,14),
   "S.お気に入り/*IA%20-ARIA%20ON%20THE%20PLANETES-/目/通常~通常",
